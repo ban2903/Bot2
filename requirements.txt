@@ -1,5 +1,4 @@
 numpy==1.19.5
-pandas==1.0.5
 absl-py==0.11.0
 alabaster==0.7.12
 argh==0.26.2

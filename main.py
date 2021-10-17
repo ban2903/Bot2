@@ -33,7 +33,7 @@ instruction = '''
     14. sub_area: name of the district
 '''
 
-df = pd.read_csv('train.csv', sep=',')[columns]
+df = pd.read_csv('train.csv', sep=';')[columns]
 df = df.astype(str)
 
 
